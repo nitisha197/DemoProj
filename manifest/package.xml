@@ -3,6 +3,7 @@
 
   <types>
     <members>Emp_DB__c.Full_Name__c</members>
+    <members>Emp_DB__c.Employee_Email__c</members>
     <name>CustomField</name>
   </types>
 
