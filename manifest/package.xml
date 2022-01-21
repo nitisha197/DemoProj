@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+
+  <types>
+    <members>Emp_DB__c.Full_Name__c</members>
+    <name>CustomField</name>
+  </types>
+
+  <types>
+    <members>Emp_DB__c</members>
+    <name>CustomObject</name>
+  </types>
+
+  <types>
+    <members>Emp_DB__c</members>
+    <name>CustomTab</name>
+  </types>
+
+  <types>
+    <members>Emp_DB__c.All</members>
+    <name>ListView</name>
+  </types>
+
+
+    <types>
+        <members>DemoApexClass</members>
+        <name>ApexClass</name>
+    </types>
+ 
+    <version>52.0</version>
+</Package>
+
